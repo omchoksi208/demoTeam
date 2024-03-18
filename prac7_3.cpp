@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 //devang dhandhukiya
+//om
 class Complex {
 private:
     int real;
